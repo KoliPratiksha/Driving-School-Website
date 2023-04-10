@@ -1,0 +1,100 @@
+#header .left{
+    background-color: cornflowerblue;
+}
+nav img{
+   height: 4rem;
+   width: 10rem;
+}
+nav .btn{
+    background-color: rgb(216, 250, 250);
+   border-radius: 40rem;
+   width: 10rem;
+}
+#about h1{
+    font-size:50rem;
+}
+#about img{
+    width: 30rem;
+    padding-left: 4rem;
+}
+#about .btn{
+    border-radius: 40rem;
+    background-color: rgb(216, 250, 250);
+    width: 10rem;
+}
+   
+.card img{
+    width: 4rem;
+    height: 50px;
+    
+}
+#service{
+    background-color: blue;
+}
+#service .card{
+    background-color: blue;
+}
+#service .btn{
+    border: radius 40rem;
+    background-color: rgb(216, 250, 250);
+    width: 10rem;
+}
+#team img{
+    width: 16rem;
+    height:35vh;
+}
+#ourteam .text{
+    background-color: aquamarine;
+}
+#ourteam img{
+    height: 50vh;
+    width: 20rem;
+}
+#ourteam h1{
+    color: blue;
+}
+#blog .btn{
+    width: 10rem;
+}
+#blog img{
+    width: 22rem;
+    height: 40vh ;
+}
+#blog .btn{
+    border: radius 40rem;
+    background-color: rgb(216, 250, 250);
+    width: 10rem;
+}
+#contact{
+    background-color: rgb(214, 245, 255);
+}
+#contact .card{
+    background-color: rgb(214, 245, 255);
+}
+#information img{
+    width: 9rem;
+}
+#information h6{
+    color: blue;
+}
+#information .btn{
+   color: black;
+   width: 10rem;
+   /* border-radius: 20rem; */
+   background-color: aquamarine;
+}
+#footer{
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -87,6 +87,14 @@ nav .btn{
     background-color: aliceblue;
 }
 
+@media screen and (max-width:768px) {
+    .right a{
+        display: none;
+    }
+    .btn{
+        display: none;
+    }
+}
 
 
 

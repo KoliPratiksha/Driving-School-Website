@@ -94,6 +94,27 @@ nav .btn{
     .btn{
         display: none;
     }
+    .image{
+        margin-right: 2rem;
+    }
+    .card{
+        margin-left: 1rem;
+        margin-top: 2rem;
+    }
+    .card2{
+        margin-left: 1rem;
+        margin-top: 2rem;
+    }
+    
+    
+    .h1{
+        margin-top: 2rem;
+    }
+   
+    .h{
+    margin-bottom: 3rem;
+    } 
+   
 }
 
 
